@@ -1,6 +1,6 @@
 # Docker w/ PHP
 
-This is a bare-bones project to show how to use Docker with Apache, PHP, and a self-signed SSL cert via Traefik. This repo is also contains the minimal configuration for xdebug 3!
+This is a bare-bones project to show how to use Docker with Apache, PHP, and a self-signed SSL cert via Traefik. This repo also contains some minimal configuration for using xdebug 3 with docker!
 
 # Quick Start
 
